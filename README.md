@@ -12,17 +12,17 @@
 
 - 📫 How to reach me **omar.benamara@esprit.tn**
 
-<h3 align="left"> 💬Connect with me :</h3>
+<h3 align="left"> 💬Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omarbenamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-benamara" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">  🧰Languages and Tools :</h3>
+<h3 align="left">  🧰Languages and Tools:</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,html,css,js,nodejs,express,npm,mysql,arduino,symfony,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,git,kubernetes,docker,ansible,prometheus,grafana,terraform,openstack,azure,aws,gitlab,ps,ai"/><br> </p>
 <br/>
 <hr/>
 <div align="left">
-  <h3> 🐍Contributions :</h3>
+  <h3> 🐍Contributions:</h3>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/OmarBenamara99/OmarBenamara99/blob/output/github-contribution-grid-snake.svg" />
   <br/>
