@@ -20,9 +20,7 @@
 <h3 align="left">  🧰Languages and Tools:</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,html,css,js,nodejs,express,npm,mysql,arduino,symfony,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,git,kubernetes,docker,ansible,prometheus,grafana,terraform,openstack,azure,aws,gitlab,ps,ai"/><br> </p>
 <br/>
-<hr/>
 
-<hr/>
 
 <br>
 <div align=left>
