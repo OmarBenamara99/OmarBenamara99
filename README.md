@@ -17,8 +17,8 @@
 <a href="https://www.linkedin.com/in/omarbenamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-benamara" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">  🧰Languages and Tools:</h3>
-<p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,html,css,js,nodejs,express,npm,mysql,arduino,symfony,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,git,kubernetes,docker,ansible,prometheus,jenkins,vercel,render,aiven,grafana,terraform,openstack,azure,aws,gitlab,ps,ai"/><br> </p>
+<h3 align="left">  🧰Languages and Tools used:</h3>
+<p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,html,css,js,nodejs,express,npm,mysql,arduino,symfony,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,git,kubernetes,docker,ansible,prometheus,jenkins,vercel,grafana,terraform,openstack,azure,aws,gitlab,ps,ai"/><br> </p>
 <br/>
 
 
