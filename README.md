@@ -21,14 +21,9 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=bash,idea,pycharm,phpstorm,vscode,visualstudio,vim,linux,ubuntu,kali,postman,bootstrap,html,css,js,nodejs,express,npm,mysql,arduino,symfony,c,cpp,cs,dotnet,java,spring,angular,graphql,qt,php,py,git,kubernetes,docker,ansible,prometheus,grafana,terraform,openstack,azure,aws,gitlab,ps,ai"/><br> </p>
 <br/>
 <hr/>
-<div align="left">
-  <h3> 🐍Contributions:</h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/OmarBenamara99/OmarBenamara99/blob/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
+
 <hr/>
-<h2 align="left"> ⚡Stats:</h2>
+
 <br>
 <div align=left>
   <img width=390 align="left" src="https://github-readme-stats.vercel.app/api?username=OmarBenamara99&count_private=true&show_icons=true&theme=vision-friendly-dark&rank_icon=github&border_radius=10" alt="readme stats" />
